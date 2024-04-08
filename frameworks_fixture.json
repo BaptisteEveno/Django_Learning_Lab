@@ -1,0 +1,57 @@
+[
+  {
+    "model": "api.framework",
+    "pk": 1,
+    "fields": {
+      "nom": "Django",
+      "categorie": "Web",
+      "date_creation": "2005-07-21",
+      "derniere_version": "3.2",
+      "site_web": "https://www.djangoproject.com/"
+    }
+  },
+  {
+    "model": "api.framework",
+    "pk": 2,
+    "fields": {
+      "nom": "Flask",
+      "categorie": "Web",
+      "date_creation": "2010-04-01",
+      "derniere_version": "2.0.1",
+      "site_web": "https://palletsprojects.com/p/flask/"
+    }
+  },
+  {
+    "model": "api.framework",
+    "pk": 3,
+    "fields": {
+      "nom": "FastAPI",
+      "categorie": "Web",
+      "date_creation": "2018-12-08",
+      "derniere_version": "0.65.1",
+      "site_web": "https://fastapi.tiangolo.com/"
+    }
+  },
+  {
+    "model": "api.framework",
+    "pk": 4,
+    "fields": {
+      "nom": "Pyramid",
+      "categorie": "Web",
+      "date_creation": "2008-06-01",
+      "derniere_version": "1.10",
+      "site_web": "https://trypyramid.com/"
+    }
+  },
+  {
+    "model": "api.framework",
+    "pk": 5,
+    "fields": {
+      "nom": "Tornado",
+      "categorie": "Web",
+      "date_creation": "2009-09-01",
+      "derniere_version": "6.1",
+      "site_web": "https://www.tornadoweb.org/en/stable/"
+    }
+  }
+]
